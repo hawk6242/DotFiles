@@ -275,7 +275,7 @@ menu-2-1-exec = menu-open-0
 
 [module/spotify]
 type = custom/script
-exec = ~/.config/polybar/Spotify.sh %artist% - %title%
+exec = ~/.config/polybar/spot
 tail = true
 interval = 2
 format-underline = #1db954
