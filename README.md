@@ -10,4 +10,4 @@ Config Files for Ricing Themes
   To change directory path
   Make sure the keys are the same
 
-Happy Hunting!! :)
+Happy Ricing!! :)
