@@ -1,6 +1,6 @@
 # DotFiles
 
-Config Files for i3 and polybar
+Config Files for Ricing Themes
 
 # Requirements:
   Light Program for brightness: https://github.com/haikarainen/light.git
