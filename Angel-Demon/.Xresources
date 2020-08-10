@@ -1,0 +1,63 @@
+! urxvt
+URxvt*buffered: true
+URxvt*cursorBlink: true
+URxvt*underlineColor: yellow
+URxvt*font:  xft:inconsolata:size=12:antialias=true
+URxvt*depth: 32
+URxvt*borderless: 1
+URxvt*scrollBar: false
+URxvt*loginShell: true
+Urxvt*secondaryScroll:  true    # Enable Shift-PageUp/Down in screen
+URxvt*saveLines: 5000
+URxvt*termName: rxvt-unicode
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+
+#define S_bg01        #1d1f21
+#define S_bg02        #363a41
+#define S_fg01        #c4c8c5
+#define S_black01        #000000
+#define S_red01        #af0000
+#define S_green01        #248f24
+#define S_yellow01        #ffc61a
+#define S_blue01        #80a1bd
+#define S_magenta01        #b294ba
+#define S_cyan01        #8abdb6
+#define S_white01        #ffffff
+
+*background:            S_bg01
+*foreground:            S_fg01
+*cursorColor:           S_fg01
+
+!! black dark/light
+*color0:                S_black01
+*color8:                S_black01
+
+!! red dark/light
+*color1:                S_red01
+*color9:                S_red01
+
+!! green dark/light
+*color2:                S_green01
+*color10:               S_green01
+
+!! yellow dark/light
+*color3:                S_yellow01
+*color11:               S_yellow01
+
+!! blue dark/light
+*color4:                S_blue01
+*color12:               S_blue01
+
+!! magenta dark/light
+*color5:                S_magenta01
+*color13:               S_magenta01
+
+!! cyan dark/light
+*color6:                S_cyan01
+*color14:               S_cyan01
+
+!! white dark/light
+*color7:                S_white01
+*color15:               S_white01
