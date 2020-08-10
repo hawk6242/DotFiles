@@ -8,4 +8,4 @@
 *foreground:            S_fg01
 *cursorColor:           S_fg01
 
-#include "~/.xres/urxvt"
+#include ".xres/urxvt"
